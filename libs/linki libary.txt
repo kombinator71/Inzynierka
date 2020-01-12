@@ -1,0 +1,2 @@
+https://www.controllerstech.com/i2c-lcd-in-stm32/
+https://github.com/BoschSensortec/BMP280_driver
